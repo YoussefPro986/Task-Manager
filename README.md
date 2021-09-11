@@ -1,4 +1,4 @@
-# Task-Manager
+# Task Manager
 Advanced Task Manager in MFC
 
 This article demonstrates how to create a Task Manager in MFC which lists all the processes running in the system along with their process details and version information.
