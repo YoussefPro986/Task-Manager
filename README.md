@@ -5,10 +5,12 @@ This article demonstrates how to create a Task Manager in MFC which lists all th
 
 This article demonstrates how to create a Task Manager in MFC which lists all the processes running in the system
  along with their process details and version information.
-
-Download Source Files - (22.8 Kb)
-
-https://mega.nz/file/3fRSSboT#ivwdMdBtYdILJLjqkQrZt_HFOrCC_i0Y1d3w0pPyZFQ
+ 
+ ![AdvancedTaskMgr32](https://user-images.githubusercontent.com/72635460/132959733-be55fe2b-ced7-4cdf-89b3-8a46416ab67b.PNG)
+ 
+ Screenshot of the (Advanced Task Manager) app
+ 
+ You can download or try the application from here
 
 Download Demo Project - (8.21 Kb)
 
